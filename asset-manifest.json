@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nmiPortfolio/static/css/main.c456c761.css",
-    "main.js": "/nmiPortfolio/static/js/main.639448f0.js",
+    "main.js": "/nmiPortfolio/static/js/main.b953752e.js",
     "static/js/787.3c50e41e.chunk.js": "/nmiPortfolio/static/js/787.3c50e41e.chunk.js",
     "static/media/nmilogo.png": "/nmiPortfolio/static/media/nmilogo.8776e5ba4f4affe9c3b8.png",
     "static/media/IMG_5481.PNG": "/nmiPortfolio/static/media/IMG_5481.578527d55acb96d40dc0.PNG",
@@ -22,11 +22,11 @@
     "static/media/x2.svg": "/nmiPortfolio/static/media/x2.432c9f0a67a7fe670c957db94167efef.svg",
     "static/media/x.svg": "/nmiPortfolio/static/media/x.4f1395563628889f661130bdc24ed4e1.svg",
     "main.c456c761.css.map": "/nmiPortfolio/static/css/main.c456c761.css.map",
-    "main.639448f0.js.map": "/nmiPortfolio/static/js/main.639448f0.js.map",
+    "main.b953752e.js.map": "/nmiPortfolio/static/js/main.b953752e.js.map",
     "787.3c50e41e.chunk.js.map": "/nmiPortfolio/static/js/787.3c50e41e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c456c761.css",
-    "static/js/main.639448f0.js"
+    "static/js/main.b953752e.js"
   ]
 }
