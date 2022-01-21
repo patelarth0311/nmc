@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nmiPortfolio/static/css/main.96775dba.css",
-    "main.js": "/nmiPortfolio/static/js/main.ae66f674.js",
+    "main.css": "/nmiPortfolio/static/css/main.397db32b.css",
+    "main.js": "/nmiPortfolio/static/js/main.50d7859a.js",
     "static/js/787.3c50e41e.chunk.js": "/nmiPortfolio/static/js/787.3c50e41e.chunk.js",
     "static/media/nmilogo.png": "/nmiPortfolio/static/media/nmilogo.8776e5ba4f4affe9c3b8.png",
     "static/media/IMG_5481.PNG": "/nmiPortfolio/static/media/IMG_5481.578527d55acb96d40dc0.PNG",
@@ -21,12 +21,12 @@
     "static/media/plus.svg": "/nmiPortfolio/static/media/plus.a451829b80ba141b2a1b3ce9666ebf8d.svg",
     "static/media/x2.svg": "/nmiPortfolio/static/media/x2.432c9f0a67a7fe670c957db94167efef.svg",
     "static/media/x.svg": "/nmiPortfolio/static/media/x.4f1395563628889f661130bdc24ed4e1.svg",
-    "main.96775dba.css.map": "/nmiPortfolio/static/css/main.96775dba.css.map",
-    "main.ae66f674.js.map": "/nmiPortfolio/static/js/main.ae66f674.js.map",
+    "main.397db32b.css.map": "/nmiPortfolio/static/css/main.397db32b.css.map",
+    "main.50d7859a.js.map": "/nmiPortfolio/static/js/main.50d7859a.js.map",
     "787.3c50e41e.chunk.js.map": "/nmiPortfolio/static/js/787.3c50e41e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96775dba.css",
-    "static/js/main.ae66f674.js"
+    "static/css/main.397db32b.css",
+    "static/js/main.50d7859a.js"
   ]
 }
