@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nmiPortfolio/static/css/main.229d279c.css",
-    "main.js": "/nmiPortfolio/static/js/main.268acc31.js",
+    "main.js": "/nmiPortfolio/static/js/main.0c19f25a.js",
     "static/js/787.3c50e41e.chunk.js": "/nmiPortfolio/static/js/787.3c50e41e.chunk.js",
     "static/media/headerFont.ttf": "/nmiPortfolio/static/media/headerFont.8b21801fd165c1f4b4e1.ttf",
     "static/media/font.ttf": "/nmiPortfolio/static/media/font.65395f3ee0f09331d364.ttf",
@@ -32,11 +32,11 @@
     "static/media/x.svg": "/nmiPortfolio/static/media/x.4f1395563628889f661130bdc24ed4e1.svg",
     "static/media/bookmark.svg": "/nmiPortfolio/static/media/bookmark.ca526b221d3275a13632e4b99d2c78c9.svg",
     "main.229d279c.css.map": "/nmiPortfolio/static/css/main.229d279c.css.map",
-    "main.268acc31.js.map": "/nmiPortfolio/static/js/main.268acc31.js.map",
+    "main.0c19f25a.js.map": "/nmiPortfolio/static/js/main.0c19f25a.js.map",
     "787.3c50e41e.chunk.js.map": "/nmiPortfolio/static/js/787.3c50e41e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.229d279c.css",
-    "static/js/main.268acc31.js"
+    "static/js/main.0c19f25a.js"
   ]
 }
