@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nmiPortfolio/static/css/main.229d279c.css",
+    "main.css": "/nmiPortfolio/static/css/main.42960f62.css",
     "main.js": "/nmiPortfolio/static/js/main.4b15b594.js",
     "static/js/787.3c50e41e.chunk.js": "/nmiPortfolio/static/js/787.3c50e41e.chunk.js",
     "static/media/headerFont.ttf": "/nmiPortfolio/static/media/headerFont.8b21801fd165c1f4b4e1.ttf",
@@ -31,12 +31,12 @@
     "static/media/code.svg": "/nmiPortfolio/static/media/code.f36c97c4899efdb76d0c055e4b366b73.svg",
     "static/media/x.svg": "/nmiPortfolio/static/media/x.4f1395563628889f661130bdc24ed4e1.svg",
     "static/media/bookmark.svg": "/nmiPortfolio/static/media/bookmark.ca526b221d3275a13632e4b99d2c78c9.svg",
-    "main.229d279c.css.map": "/nmiPortfolio/static/css/main.229d279c.css.map",
+    "main.42960f62.css.map": "/nmiPortfolio/static/css/main.42960f62.css.map",
     "main.4b15b594.js.map": "/nmiPortfolio/static/js/main.4b15b594.js.map",
     "787.3c50e41e.chunk.js.map": "/nmiPortfolio/static/js/787.3c50e41e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.229d279c.css",
+    "static/css/main.42960f62.css",
     "static/js/main.4b15b594.js"
   ]
 }
