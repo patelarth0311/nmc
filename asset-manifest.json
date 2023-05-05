@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nmc/static/css/main.2fc94e89.css",
+    "main.js": "/nmc/static/js/main.6e205e56.js",
+    "static/js/787.795fc7b9.chunk.js": "/nmc/static/js/787.795fc7b9.chunk.js",
+    "static/media/vox.png": "/nmc/static/media/vox.d15081ea84cf132a9500.png",
+    "static/media/voxview.png": "/nmc/static/media/voxview.7025503397449bf8e00a.png",
+    "static/media/fyytView1.PNG": "/nmc/static/media/fyytView1.93eaa33ad29cadeac2d1.PNG",
+    "static/media/pokedex.png": "/nmc/static/media/pokedex.ad6e3da4df4251a1bb79.png",
+    "static/media/fyytView2.PNG": "/nmc/static/media/fyytView2.b11efa113f4ee311c1b1.PNG",
+    "static/media/ARPVOX.glb": "/nmc/static/media/ARPVOX.8824176c836fdfc52341.glb",
+    "static/media/compass3.png": "/nmc/static/media/compass3.b9fe124dec440af5d578.png",
+    "static/media/compass2.png": "/nmc/static/media/compass2.db0303382539a08f8667.png",
+    "static/media/eventReminderView.png": "/nmc/static/media/eventReminderView.3b057b4ff8fdfa0bc716.png",
+    "static/media/demonslayer.png": "/nmc/static/media/demonslayer.ca5e4bcd359cc68d6b99.png",
+    "static/media/compass1.png": "/nmc/static/media/compass1.46f667d7242bc4a1be94.png",
+    "static/media/pokemonfilter.png": "/nmc/static/media/pokemonfilter.1ae38a84d27f76f83053.png",
+    "static/media/font.ttf": "/nmc/static/media/font.85bbd40560d79ce32265.ttf",
+    "static/media/arthpatelresume.pdf": "/nmc/static/media/arthpatelresume.edf26f9ffba4576cde22.pdf",
+    "static/media/titleFont.ttf": "/nmc/static/media/titleFont.eeae9ebd287e9cc247a6.ttf",
+    "static/media/headerFont.ttf": "/nmc/static/media/headerFont.8b21801fd165c1f4b4e1.ttf",
+    "index.html": "/nmc/index.html",
+    "main.2fc94e89.css.map": "/nmc/static/css/main.2fc94e89.css.map",
+    "main.6e205e56.js.map": "/nmc/static/js/main.6e205e56.js.map",
+    "787.795fc7b9.chunk.js.map": "/nmc/static/js/787.795fc7b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fc94e89.css",
+    "static/js/main.6e205e56.js"
+  ]
+}
